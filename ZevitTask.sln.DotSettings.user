@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/harutyunbadeyangmail.com/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/lib/net8.0/Microsoft.AspNetCore.OpenApi.dll" /&gt;
+  &lt;Assembly Path="/Users/harutyunbadeyangmail.com/.nuget/packages/entityframework/6.4.4/lib/netstandard2.1/EntityFramework.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=817cab22_002De738_002D4d38_002Dbc31_002D2e97d1573c01/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FA4B09C0-698D-45F1-88CB-933EFB34B038::net8.0::ZevitTaskTests.UnitTest1.Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FA4B09C0-698D-45F1-88CB-933EFB34B038::net8.0::ZevitTaskTests.Unit.ContactServiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
